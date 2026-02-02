@@ -1,1 +1,62 @@
-~)^�+-zo�
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:anchor="https://anchor.fm/xmlns" xmlns:podcast="https://podcastindex.org/namespace/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters">
+	<channel>
+		<title><![CDATA[The Morning Boot – Daily Tech News with The Root Access]]></title>
+		<description><![CDATA[The Morning Boot delivers fast, no-nonsense daily tech news with root-level access to what actually matters — cybersecurity, AI, cloud, enterprise IT, startups, and digital policy. Start your day informed, not overloaded.]]></description>
+		<link>https://podcasters.spotify.com/pod/show/the-morning-boot</link>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Sun, 01 Feb 2026 11:36:09 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/s/10e90afc4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<author><![CDATA[The Root Access]]></author>
+		<copyright><![CDATA[The Root Access]]></copyright>
+		<language><![CDATA[en]]></language>
+		<atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+		<itunes:author>The Root Access</itunes:author>
+		<itunes:summary>The Morning Boot delivers fast, no-nonsense daily tech news with root-level access to what actually matters — cybersecurity, AI, cloud, enterprise IT, startups, and digital policy. Start your day informed, not overloaded.</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>The Root Access</itunes:name>
+			<itunes:email>themorningboot@therootaccess.llc</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>false</itunes:explicit>
+		<itunes:category text="News">
+			<itunes:category text="Tech News"/>
+		</itunes:category>
+		<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45293305/45293305-1769902745749-19cedbcfb4319.jpg"/>
+		<item>
+			<title><![CDATA[Communication in IT]]></title>
+			<description><![CDATA[<p>This is our first episode, and a bit different, no news, today, we start this show with what matters most, Communication in IT. and that&#39;s all. Not presentation skills. Not slide design.  Some guidelines  to Communication that actually works in IT.  Because here’s a widely accepted truth across engineering leadership, consulting, and executive management: <em><strong>Most IT failures are not technical failures.  They are communication failures. </strong></em></p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/the-morning-boot/episodes/Communication-in-IT-e3ef6sd</link>
+			<guid isPermaLink="false">da981864-2aa3-4205-a9f5-7dd540c98253</guid>
+			<dc:creator><![CDATA[The Root Access]]></dc:creator>
+			<pubDate>Sun, 01 Feb 2026 00:22:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10e90afc4/podcast/play/114841933/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-1-1%2F273cb076-5376-f133-4d98-c6ff6d03487e.mp3" length="7299657" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is our first episode, and a bit different, no news, today, we start this show with what matters most, Communication in IT. and that&amp;#39;s all. Not presentation skills. Not slide design.  Some guidelines  to Communication that actually works in IT.  Because here’s a widely accepted truth across engineering leadership, consulting, and executive management: &lt;em&gt;&lt;strong&gt;Most IT failures are not technical failures.  They are communication failures. &lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:07:36</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_nologo/45293305/45293305-1769902745749-19cedbcfb4319.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Trailer]]></title>
+			<description><![CDATA[<p>This is <strong>The Morning Boot</strong> — daily tech news with The Root Access.</p><p>A short, focused show built for IT leaders, cloud engineers, security professionals, founders, and anyone responsible for real systems in the real world.</p><p>Every episode breaks down what’s happening in AI, cloud, security, and enterprise tech — without the hype, without the fluff, and without wasting your time.<br>We cut through headlines, trends, and buzzwords to get to the practical impact: how this changes the way you build, operate, secure, and scale.</p><p>No panels. No interviews. Just clear context, sharp insights, and real-world implications you can actually use.</p><p>Think of this as your daily boot-up for the tech world — fast, grounded, and built for people who need signal, not noise.</p><p>If you work in tech, or you rely on it to run your business, you’re in the right place.</p><p>Welcome to <strong>The Morning Boot</strong>.</p>
+]]></description>
+			<link>https://podcasters.spotify.com/pod/show/the-morning-boot/episodes/Trailer-e3ef5pa</link>
+			<guid isPermaLink="false">29e796d9-1eb0-4d76-99a8-61fec3502df3</guid>
+			<dc:creator><![CDATA[The Root Access]]></dc:creator>
+			<pubDate>Sat, 31 Jan 2026 23:36:09 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/10e90afc4/podcast/play/114840810/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-0-31%2F0fdf0e26-9bde-b180-c353-855b1c45a46a.mp3" length="593084" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;This is &lt;strong&gt;The Morning Boot&lt;/strong&gt; — daily tech news with The Root Access.&lt;/p&gt;&lt;p&gt;A short, focused show built for IT leaders, cloud engineers, security professionals, founders, and anyone responsible for real systems in the real world.&lt;/p&gt;&lt;p&gt;Every episode breaks down what’s happening in AI, cloud, security, and enterprise tech — without the hype, without the fluff, and without wasting your time.&lt;br&gt;We cut through headlines, trends, and buzzwords to get to the practical impact: how this changes the way you build, operate, secure, and scale.&lt;/p&gt;&lt;p&gt;No panels. No interviews. Just clear context, sharp insights, and real-world implications you can actually use.&lt;/p&gt;&lt;p&gt;Think of this as your daily boot-up for the tech world — fast, grounded, and built for people who need signal, not noise.&lt;/p&gt;&lt;p&gt;If you work in tech, or you rely on it to run your business, you’re in the right place.&lt;/p&gt;&lt;p&gt;Welcome to &lt;strong&gt;The Morning Boot&lt;/strong&gt;.&lt;/p&gt;
+</itunes:summary>
+			<itunes:explicit>false</itunes:explicit>
+			<itunes:duration>00:00:37</itunes:duration>
+			<itunes:image href="https://d3t3ozftmdmh3i.cloudfront.net/staging/podcast_uploaded_episode/45293305/45293305-1769902500117-387f5e3d17eee.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>1</itunes:episode>
+			<itunes:episodeType>trailer</itunes:episodeType>
+		</item>
+	</channel>
+</rss>
