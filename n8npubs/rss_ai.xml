@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" 
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:podcast="https://podcastindex.org/namespace/1.0">
+
+  <channel>
+    <title>The Wit and Wisdom Podcast</title>
+    <description>An insightful, slightly cheeky deep dive into everything and nothing.</description>
+    <link>https://www.yourwebsite.com</link>
+    <language>en-us</language>
+    <copyright>&#169; 2026 Your Name</copyright>
+    
+    <itunes:author>Your Name/Studio</itunes:author>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Your Name</itunes:name>
+      <itunes:email>contact@yourwebsite.com</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:category text="Technology" />
+    <itunes:image href="https://www.yourwebsite.com/artwork.jpg" /> <item>
+      <title>Episode 1: The Great Beginning</title>
+      <description>In our first episode, we talk about why starting is the hardest part.</description>
+      <pubDate>Sun, 01 Feb 2026 12:00:00 GMT</pubDate>
+      <guid isPermaLink="false">unique-id-001</guid>
+      <link>https://www.yourwebsite.com/ep1</link>
+      
+      <enclosure url="https://www.yourwebsite.com/audio/ep1.mp3" length="45000000" type="audio/mpeg" />
+      
+      <itunes:duration>00:45:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+      <itunes:image href="https://www.yourwebsite.com/ep1-artwork.jpg" />
+    </item>
+
+  </channel>
+</rss>
